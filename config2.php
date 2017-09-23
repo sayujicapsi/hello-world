@@ -1,4 +1,4 @@
 <?php 
-$con = "config2.php";
+$con = "config2.php123";
 
 ?>
